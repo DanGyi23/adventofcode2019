@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [day2 / Compile / run] Found inputs: /Users/dangyi/Documents/Projects/adventofcode2019/day2/*.{java,scala},/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/java/**/*.{java,scala},/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/resources/**/*,/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/**/*.{java,scala},/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for day2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mday2 / Compile / run - Accepted event for /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala (previous stamp: Hash(c7846565bcc3fc66e111b4bbcbdeb6072afe9d09), current stamp: Hash(5c2e3d6e5e711f98544e40f71028b52b54ca995e))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala -> Trigger. Returning: (Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala, 2019-Dec-02 15:49:54.413 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala, 2019-Dec-02 15:49:54.413 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for day2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mday2 / Compile / run - Accepted event for /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala (previous stamp: Hash(5c2e3d6e5e711f98544e40f71028b52b54ca995e), current stamp: Hash(95e3d6056a30e1e978e50bdb8ed8380871afb681))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala -> Trigger. Returning: (Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala, 2019-Dec-02 15:50:09.858 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/dangyi/Documents/Projects/adventofcode2019/day2/src/main/scala/Main.scala, 2019-Dec-02 15:50:09.858 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m3. Monitoring source files for day2/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
